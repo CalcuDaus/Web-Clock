@@ -1,6 +1,6 @@
 .clock {
     width: 400px;
-    background-color: black;
+    background-color: rgb(57, 57, 57);
     padding: 30px;
     color: white;
     font-family: sans-serif;
@@ -11,9 +11,12 @@
   .clock .time {
     font-size: 64px;
     margin: 0 auto;
+    color: rgb(226, 104, 60);
+    font-weight: bold;
   }
    
   .clock .date {
+    color: rgb(226, 104, 60);
     font-size: 24px;
     margin: 0 auto;
   }
